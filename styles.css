@@ -201,7 +201,7 @@ footer > a:last-child { color: var(--cyan); font-weight: 800; }
   .project-thumbnail { min-height: 230px; }
   .project-dialog {
     width: min(332px, calc(100% - 28px));
-    max-height: min(82dvh, 680px);
+    max-height: min(90dvh, 680px);
     border-radius: 7px;
     overscroll-behavior: contain;
   }
