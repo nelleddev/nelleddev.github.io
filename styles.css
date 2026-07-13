@@ -200,8 +200,8 @@ footer > a:last-child { color: var(--cyan); font-weight: 800; }
   .project-copy h3 { font-size: 36px; }
   .project-thumbnail { min-height: 230px; }
   .project-dialog {
-    width: min(332px, calc(100% - 28px));
-    max-height: min(90dvh, 720px);
+    width: min(350px, calc(100% - 16px));
+    max-height: min(94dvh, 760px);
     border-radius: 7px;
     overscroll-behavior: contain;
   }
